@@ -38,7 +38,7 @@
     <dependency>
       <groupId>org.geonetwork-opensource</groupId>
       <artifactId>schema-iso19139.ca.HNAP</artifactId>
-      <version>3.7</version>
+      <version>${project.version}</version>
       <type>jar</type>
       <exclusions>
         <exclusion>
